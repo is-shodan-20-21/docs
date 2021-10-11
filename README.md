@@ -1,6 +1,6 @@
 ### Deadlines
 
-* 07-10: GitHub Repository
+* 07-10: Project Proposal
 * 14-10: Problem Statement
 * 28-10: Requisiti e casi d'uso
 * 11-11: Requirements Analysis Document
