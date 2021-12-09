@@ -2,7 +2,7 @@
 
 Semipreparati e cartelle di lavoro relative alla documentazione. 
 
-I documenti PDF consegnabili in sede di esame sono situati in [/deliverables/](https://github.com/is-shodan-21-22/deliverables).
+I documenti PDF consegnabili in sede di esame sono situati in [/deliverables/](https://github.com/is-shodan-21-22/deliverables). La presentazione Powerpoint è disponibile a [questo indirizzo](https://1drv.ms/u/s!ApavQkGLiIDZwGXH3HhgEHgMFrMY?e=comlCJ).
 
 ### Deadlines
 
